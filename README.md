@@ -5,7 +5,7 @@ written in python
 scan multiple sites from terminal or provide site list as file,
 use wordlist of your choice, set threads amount and run.
 
-Uses:
+### Usage:
 `python3 finder.py`
 or
 `python3 finder.py file` for giving sitelist as file input
